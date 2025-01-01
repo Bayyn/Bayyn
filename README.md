@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Bayyn
 - 👀 I’m interested in AI & SaaS
-- 🌱 I’m currently learning OpenCV
 - 📫 How to reach me ... furkan@fuyi.dev
